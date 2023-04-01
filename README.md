@@ -21,6 +21,8 @@
     - [Code Formating]()
         - [Inline code]()
         - [Code Blocks]()
+    - [Tables]()
+    - [Check-box]()
 
 - [Rules]()
 # Markdown
