@@ -6,34 +6,34 @@
 
 # 📝 Contents
 
-- [Guide](#guide)
-    - [Text Formating]()
-        - [Heading]()
-        - [Bold]()
-        - [Italic]()
-        - [Blockquote]()
-        - [Strikethrough]()
-        - [List]()
-            - [Ordered list]()
-            - [Unordered list]()
-    - [Link Formating]()
-        - [Link]()
-        - [Link with title]()
-        - [Link with tool-tip]()
-    - [Image Formating]()
-        - [Image]()
-        - [Image with Link]()
-    - [Code Formating]()
-        - [Inline code]()
-        - [Code Blocks]()
-    - [Tables]()
-    - [Check-box]()
+- [Text Formating]()
+    - [Heading]()
+    - [Bold]()
+    - [Italic]()
+    - [Blockquote]()
+    - [Strikethrough]()
+    - [List]()
+        - [Ordered list]()
+        - [Unordered list]()
+- [Link Formating]()
+    - [Link]()
+    - [Link with title]()
+    - [Link with tool-tip]()
+- [Image Formating]()
+    - [Image]()
+    - [Image with Link]()
+- [Code Formating]()
+    - [Inline code]()
+    - [Code Blocks]()
+- [Tables]()
+- [Check-box]()
 
 - [Rules]()
-# Guide
 
-## Text Formating
-### Heading
+<br>
+
+# Text Formating
+## Heading
 
  ```
 # Heading 1
@@ -48,26 +48,54 @@
 
 ###### Heading 6
 ```
-Output :
-![Heading Output]( )
+Output :<br>
+<br>
 
-### Bold
+# Heading 1
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+<br>
+
+## Bold
 
 ```
 **Bold Text**
 
 __Bold Text__
 ```
-Output :
-![Bold Output]( )
+Output :<br>
+<br>
+**Bold Text**
 
-### Italic
+__Bold Text__
+<br>
+
+## Italic
 ```
 *Italic Text*
 
 _Italic Text_
 ```
+Output :<br>
+<br>
+*Italic Text*
+
+_Italic Text_
+<!-- ![Italic Output]( ) -->
+<br>
+
+## Blockquote
+
+```
+> Blockquote text here
+```
 Output :
-![Italic Output]( )
-
-
+> Blockquote text here
