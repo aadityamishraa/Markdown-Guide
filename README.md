@@ -51,5 +51,23 @@
 Output :
 ![Heading Output]( )
 
+### Bold
+
+```
+**Bold Text**
+
+__Bold Text__
+```
+Output :
+![Bold Output]( )
+
+### Italic
+```
+*Italic Text*
+
+_Italic Text_
+```
+Output :
+![Italic Output]( )
 
 
