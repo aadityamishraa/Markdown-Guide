@@ -1,6 +1,11 @@
-# Content
+# 📑 Markdown
 
-- [About](#markdown)
+- Markdown is a lightweight markup language that is used for formatting text in a simple and easy-to-read way. It is often used for creating content for the web, such as blog posts, documentation, and README files. 
+
+- Markdown uses plain text formatting syntax to indicate headings, lists, emphasis, links, and other formatting elements. It is designed to be both human-readable and machine-readable, making it easy to write and publish content online.
+
+# 📝 Contents
+
 - [Guide](#guide)
     - [Text Formating]()
         - [Heading]()
@@ -25,9 +30,6 @@
     - [Check-box]()
 
 - [Rules]()
-# Markdown
-
-- Markdown is a lightweight markup language that is used for formatting text in a simple and easy-to-read way. It is often used for creating content for the web, such as blog posts, documentation, and README files. 
-
-- Markdown uses plain text formatting syntax to indicate headings, lists, emphasis, links, and other formatting elements. It is designed to be both human-readable and machine-readable, making it easy to write and publish content online.
 # Guide
+
+## Text Formating
