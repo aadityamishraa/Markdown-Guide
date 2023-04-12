@@ -65,10 +65,10 @@ Output :<br>
 ###### Heading 6
 
 <br>
-<br>
 
 ## Bold
-#
+<br>
+
 ```
 **Bold Text**
 
@@ -81,10 +81,10 @@ Output :<br>
 
 __Bold Text__
 <br>
-<br>
 
 ## Italic
-#
+<br>
+
 ```
 *Italic Text*
 
@@ -97,10 +97,9 @@ Output :<br>
 _Italic Text_
 <!-- ![Italic Output]( ) -->
 <br>
-<br>
 
 ## Blockquote
-#
+<br>
 
 ```
 > Blockquote text here
@@ -109,10 +108,10 @@ Output :
 > Blockquote text here
 
 <br>
-<br>
 
 ## Strikethrough
-#
+<br>
+
 ```
 ~~This is strikethough~~
 ```
@@ -123,7 +122,8 @@ Output:
 <br>
 
 ## List
-#
+<br>
+
 ### Ordered List
 ```
 1. Item1
