@@ -99,3 +99,16 @@ _Italic Text_
 ```
 Output :
 > Blockquote text here
+
+## Strikethrough
+
+```
+~~This is strikethough~~
+```
+Output:
+~~This is strikethrough~~
+
+## List
+
+```
+```
