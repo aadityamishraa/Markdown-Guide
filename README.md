@@ -4,6 +4,8 @@
 
 - Markdown uses plain text formatting syntax to indicate headings, lists, emphasis, links, and other formatting elements. It is designed to be both human-readable and machine-readable, making it easy to write and publish content online.
 
+<br>
+
 # 📝 Contents
 
 - [Text Formating]()
@@ -49,7 +51,7 @@
 ###### Heading 6
 ```
 Output :<br>
-<br>
+
 
 # Heading 1
 ## Heading 2
@@ -63,22 +65,26 @@ Output :<br>
 ###### Heading 6
 
 <br>
+<br>
 
 ## Bold
-
+#
 ```
 **Bold Text**
 
 __Bold Text__
 ```
+
 Output :<br>
 <br>
 **Bold Text**
 
 __Bold Text__
 <br>
+<br>
 
 ## Italic
+#
 ```
 *Italic Text*
 
@@ -91,14 +97,19 @@ Output :<br>
 _Italic Text_
 <!-- ![Italic Output]( ) -->
 <br>
+<br>
 
 ## Blockquote
+#
 
 ```
 > Blockquote text here
 ```
 Output :
 > Blockquote text here
+
+<br>
+<br>
 
 ## Strikethrough
 #
@@ -107,6 +118,9 @@ Output :
 ```
 Output:
 ~~This is strikethrough~~
+
+<br>
+<br>
 
 ## List
 #
@@ -120,6 +134,9 @@ Output:
 1. Item1
 2. Item2
 3. Item3
+
+<br>
+
 ### Unordered List
 ```
 - Item1      * Item1      + Item1
