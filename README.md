@@ -101,7 +101,7 @@ Output :
 > Blockquote text here
 
 ## Strikethrough
-
+#
 ```
 ~~This is strikethough~~
 ```
@@ -109,6 +109,24 @@ Output:
 ~~This is strikethrough~~
 
 ## List
-
+#
+### Ordered List
 ```
+1. Item1
+2. Item2
+3. Item3
 ```
+Output:
+1. Item1
+2. Item2
+3. Item3
+### Unordered List
+```
+- Item1      * Item1      + Item1
+- Item2  or  * Item2  or  + Item2
+- Item3      * Item3      + Item3
+```
+Output:
+- Item1
+- Item2
+- Item3
